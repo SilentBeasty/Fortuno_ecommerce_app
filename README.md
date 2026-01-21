@@ -21,21 +21,15 @@ This project is a Flask-based RESTful API developed for Activity 4 in IS 312. Th
 # Application Testing Tool
 Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 
-
-
 **How to Install Postman**
 1. Go to the official Postman website.
 2. Download and install the Postman application.
 3. Open Postman after installation.
 4. Login or Register an account.
 
-
-
 **How to Use the API with Postman**
 1. Once the server starts, open a web browser or API testing tool and use the local server URL shown in the terminal (commonly): http://127.0.0.1:5000/
 2. Then add "products" at the end of the link: http://127.0.0.1:5000/products
-
-
 
 **View product/s**
 - View all products
@@ -43,14 +37,10 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 > URL: http://127.0.0.1:5000/products
 > Click Send to view all products.
 
-
-
 - View a product
 > Method: GET
 > URL: http://127.0.0.1:5000/products/{id}
 > Click Send to view the product.
-
-
 
 **Create a product**
 > Method: POST
