@@ -19,7 +19,7 @@ This project is a Flask-based RESTful API developed for Activity 4 in IS 312. Th
 4. Copy and paste the provided Flask code [app.py](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/98e7aff4182d91cf8a40a3ee2ba4a59b47aa3b49/Fortuno_ecommerce_app/app.py) into app.py.
 5. Run the program.
 
-**Option 2:** Easier Setup (Using ZIP File)
+**Option 2:** Using ZIP File
 1. Download the project ZIP file from: [Fortuno_ecommerce_app.zip](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/8407dc5680ba02bc3cd34d9d26d29c24fd429269/Fortuno_ecommerce_app.zip)
 2. Extract (uncompress) the ZIP file.
 3. Place the extracted folder into your desired project directory.
