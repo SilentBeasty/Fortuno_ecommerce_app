@@ -43,6 +43,11 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
    
 
 **How to Use the API with Postman**
-1. Once the server starts, open the postman application and use the local server URL shown in the terminal (commonly): http://127.0.0.1:5000/
-2. Then add "products" or "orders" at the end of the link: http://127.0.0.1:5000/products or http://127.0.0.1:5000/orders
-3. View, Create, Update or Delete a [product](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/b73e74300b527915e859433e8b7695f8742406b8/Methods/Products.md) or [order](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/b73e74300b527915e859433e8b7695f8742406b8/Methods/Orders.md)
+1. Start the Flask server. Once it’s running, open the Postman application.
+2. Use the local server URL displayed in the terminal (commonly: http://127.0.0.1:5000/).
+3. Append the desired endpoint to the URL:
+   - For products: http://127.0.0.1:5000/products
+   - For orders: http://127.0.0.1:5000/orders
+5. Use Postman to view, create, update, or delete data:
+   - [Product API Methods](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/b73e74300b527915e859433e8b7695f8742406b8/Methods/Products.md)
+   - [Order API Methods](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/b73e74300b527915e859433e8b7695f8742406b8/Methods/Orders.md)
