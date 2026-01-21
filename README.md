@@ -57,8 +57,6 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 > 
 > Sample source code:
 > 
-> `Sample Source Code:`
-> 
 > `{`
 > 
 > `  "name": "Mouse",`
@@ -71,5 +69,28 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 > 
 > Click Send to create new product.
 
+**Update a product**
+> Method: PUT
+> 
+> URL: http://127.0.0.1:5000/products/{id}
+> 
+> Sample source code:
+> 
+> `{`
+> 
+> `  "name": "Mouse",`
+> 
+> `  "price": 250,`
+> 
+> `  "stock": 5`
+> 
+> `}`
+> 
+> Click Send to update the product.
 
-
+**Delete a product**
+> Method: DELETE
+> 
+> URL: http://127.0.0.1:5000/products/{id}
+> 
+> Click Send to delete the product.
