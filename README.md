@@ -63,6 +63,7 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 > `  "stock": 10`
 > 
 > `}`
+> 
 > Click Send to create new product.
 
 
