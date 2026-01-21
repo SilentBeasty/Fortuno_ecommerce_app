@@ -29,7 +29,7 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
    
 
 **How to Use the API with Postman**
-1. Once the server starts, open a web browser or API testing tool and use the local server URL shown in the terminal (commonly): http://127.0.0.1:5000/
+1. Once the server starts, open the postman application and use the local server URL shown in the terminal (commonly): http://127.0.0.1:5000/
 2. Then add "products" at the end of the link: http://127.0.0.1:5000/products
    
 
