@@ -1,4 +1,4 @@
-# How to create, update, delete a product
+# How to view, create, update, delete a product
 **View product/s**
 - View all products
 > Method: GET
