@@ -8,15 +8,29 @@ This project is a Flask-based RESTful API developed for Activity 4 in IS 312. Th
 - SQLite – Lightweight database
 
 # How to Run the Application Locally
+**Option 1:** Manual Setup (Recommended for Learning)
 1. Open PyCharm.
 2. Create a new Python project named Fortuno_ecommerce_app.
-3. Make sure Flask is installed.
-   - If not, open your terminal and install it using: pip install flask
-5. Make sure required packages are installed.
-   - Open your terminal and install it using: pip install flask flask-sqlalchemy marshmallow
-6. Create a Python file named app.py.
-7. Copy and paste the provided Flask code [app.py](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/98e7aff4182d91cf8a40a3ee2ba4a59b47aa3b49/Fortuno_ecommerce_app/app.py) into app.py.
-8. Run the program.
+   - Make sure Flask is installed.
+      - If not, open your terminal and install it using: `pip install flask`
+   - Make sure required packages are installed.
+      - `Open your terminal and install it using: pip install flask flask-sqlalchemy marshmallow`
+3. Create a Python file named app.py.
+4. Copy and paste the provided Flask code [app.py](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/98e7aff4182d91cf8a40a3ee2ba4a59b47aa3b49/Fortuno_ecommerce_app/app.py) into app.py.
+5. Run the program.
+
+**Option 2:** Easier Setup (Using ZIP File)
+1. Download the project ZIP file from: [Fortuno_ecommerce_app.zip](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/8407dc5680ba02bc3cd34d9d26d29c24fd429269/Fortuno_ecommerce_app.zip)
+2. Extract (uncompress) the ZIP file.
+3. Place the extracted folder into your desired project directory.
+4. Open Pycharm.
+   - Make sure Flask is installed.
+      - If not, open your terminal and install it using: `pip install flask`
+   - Make sure required packages are installed.
+      - Open your terminal and install it using: `pip install flask flask-sqlalchemy marshmallow`
+5. Click the Main Menu.
+6. Select Open.
+7. Choose the extracted project folder.
 
 # Application Testing Tool
 Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
