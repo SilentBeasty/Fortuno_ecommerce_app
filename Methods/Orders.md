@@ -1,12 +1,10 @@
 # How to view, create, update, delete a order
-**View product/s**
-- View all products
+**View all orders**
 > Method: GET
 > 
 > URL: http://127.0.0.1:5000/orders
-> 
+>  
 > Click Send to view all orders.
-> 
 
 **Create a order**
 > Method: POST
@@ -23,8 +21,7 @@
 >
 > `}`
 > 
-> Click Send to create new order.
-> 
+> Click Send to create new order. 
 
 **Delete a order**
 > Method: DELETE
