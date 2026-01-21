@@ -51,12 +51,12 @@ Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 > Method: POST
 > URL: http://127.0.0.1:5000/products
 > Sample source code:
-> `Sample Source Code:
-> {
->   "name": "Mouse",
->   "price": 500,
->   "stock": 10
-> }`
+> `Sample Source Code:`
+> `{`
+> `  "name": "Mouse",`
+> `  "price": 500,`
+> `  "stock": 10`
+> `}`
 > Click Send to create new product.
 
 
