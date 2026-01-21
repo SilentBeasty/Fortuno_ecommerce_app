@@ -15,14 +15,14 @@ This project is a Flask-based RESTful API developed for Activity 4 in IS 312. Th
 5. Make sure required packages are installed.
    - Open your terminal and install it using: pip install flask flask-sqlalchemy marshmallow
 6. Create a Python file named app.py.
-7. Copy and paste the provided Flask code into app.py.
+7. Copy and paste the provided Flask code [app.py](https://github.com/SilentBeasty/Fortuno_ecommerce_app/blob/98e7aff4182d91cf8a40a3ee2ba4a59b47aa3b49/Fortuno_ecommerce_app/app.py) into app.py.
 8. Run the program.
 
 # Application Testing Tool
 Postman is used to send HTTP requests (GET, POST, PUT, DELETE) to test the API.
 
 **How to Install Postman**
-1. Go to the official Postman website.
+1. Go to the official [Postman website](https://www.postman.com/downloads/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExT3E5RXJYRGNtMEdYWEZXVXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4jHY4-O90VI2vOCvINNlIP2kvbv24vywdxPUZGCgyEBpUmj3ATbyL6Pu6fMw_aem_QGr6RQilFRu18PxEbE7nyA).
 2. Download and install the Postman application.
 3. Open Postman after installation.
 4. Login or Register an account.
